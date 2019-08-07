@@ -1,0 +1,15 @@
+div {
+    background-color: darkorchid;
+    width: 300px;
+    padding: 25px;
+    border: 25px dashed;
+    margin: 25px;
+}
+.about {
+    background: burlywood;
+    color: black;
+    width: 300px;
+    padding: 50px;
+    border: 50px dotted;
+    margin: 50px;
+}

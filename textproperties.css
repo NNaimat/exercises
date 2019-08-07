@@ -1,0 +1,20 @@
+body {
+    background: whitesmoke;
+}
+h1 {
+    color: burlywood;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 30px;
+}
+.emphasize {
+    color: blue;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+p {
+    color: crimson;
+    text-align: center;
+    text-shadow: 1px 1px black;
+}

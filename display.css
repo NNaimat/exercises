@@ -1,0 +1,12 @@
+li {
+    display: block;
+}
+h1 {
+    display: inline;
+}
+p {
+    display: inline-block;
+}
+.mention {
+    visibility: hidden;
+}
